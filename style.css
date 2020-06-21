@@ -101,9 +101,12 @@
 
 @media (min-width: 960px) {
 	.wrapper {
+		background-size: 65%;
+	}
+
+	.slide {
 		display: flex;
 		flex-direction: row-reverse;
-		background-size: 65%;
 	}
 
 	.photo {
