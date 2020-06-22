@@ -8,10 +8,6 @@
 	font-size: 14px;
 }
 
-.john,
-#john {
-	display: none;
-}
 .wrapper {
 	background: url("./images/pattern-curve.svg") no-repeat;
 	position: relative;
@@ -143,8 +139,7 @@
 	}
 
 	.slider {
-		margin-top: 435px;
-		padding-right: 450px;
-		margin-left: 0;
+		padding-top: 70px;
+		margin-left: 850px;
 	}
 }
